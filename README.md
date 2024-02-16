@@ -3,6 +3,7 @@
 ## Description
 
 This project is a classic Minesweeper game implemented in JavaScript. The game involves clearing a board containing hidden mines without detonating any of them.
+I made this project for a school coding task.
 
 ## Features
 * Customizable grid size.
